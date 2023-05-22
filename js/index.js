@@ -11,9 +11,5 @@ if (hamburer) {
     setTimeout(() => {
       popup.classList.remove("hide-popup");
     }, 1000);
-
-  }};
+  });
 }
-
-
-  
