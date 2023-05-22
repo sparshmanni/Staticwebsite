@@ -7,7 +7,13 @@ if (hamburer) {
   });
 }
 
+  window.addEventListener("load", () => {
+    setTimeout(() => {
+      popup.classList.remove("hide-popup");
+    }, 1000);
 
+  }};
+}
 
 
   
